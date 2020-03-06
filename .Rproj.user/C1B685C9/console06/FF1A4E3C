@@ -1,0 +1,112 @@
+[0mMicrosoft Windows [Version 10.0.17134.1304][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K]0;  - git[?25l
+[0K[?25h]0; usage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K[?25l
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path][0K
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>][0K
+           <command> [<args>][0K
+[0K
+These are common Git commands used in various situations:[0K
+[0K
+start a working area (see also: git help tutorial)[0K
+   clone      Clone a repository into a new directory[0K
+   init       Create an empty Git repository or reinitialize an existing one[0K
+[0K
+work on the current change (see also: git help everyday)[0K
+   add        Add file contents to the index[0K
+   mv         Move or rename a file, a directory, or a symlink[0K
+   reset      Reset current HEAD to the specified state[0K
+   rm         Remove files from the working tree and from the index[0K
+[0K
+examine the history and state (see also: git help revisions)[0K
+   bisect     Use binary search to find the commit that introduced a bug[0K
+   grep       Print lines matching a pattern[0K
+   log        Show commit logs[0K
+   show       Show various types of objects[0K
+   status     Show the working tree status[0K
+[0K
+grow, mark and tweak your common history[0K
+   branch     List, create, or delete branches[0K
+   checkout   Switch branches or restore working tree files[0K
+   commit     Record changes to the repository[0K
+   diff       Show changes between commits, commit and working tree, etc[0K
+   merge      Join two or more development histories together[0K
+   rebase     Reapply commits on top of another base tip[0K
+   tag        Create, list, delete or verify a tag object signed with GPG[0K
+[0K
+collaborate (see also: git help workflows)[0K
+   fetch      Download objects and refs from another repository[0K
+   pull       Fetch from and integrate with another repository or a local branch[0K
+   push       Update remote refs along with associated objects[0K
+[0K
+'git help -a' and 'git help -g' list available subcommands and some[0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ke[0Ka[0Kr[0K[?25l
+[0K[?25h'clear' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ks[0K[?25l
+[0K[?25h[0m[1;1H[2J[0m[0K[?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ks[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>g[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/[0K[?25l
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hl[0Ks[0K[?25l
+'ls' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hd[0Ki[0Kr[0K[?25l
+[0K[?25h Volume in drive C has no label.[0K[?25l
+ Volume Serial Number is 1A40-D01E[0K
+[0K
+ Directory of C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj[0K
+[0K
+03/05/2020  07:51 PM    <DIR>          .[0K
+03/05/2020  07:51 PM    <DIR>          ..[0K
+03/05/2020  07:49 PM           291,354 .RData[0K
+03/05/2020  07:49 PM            13,627 .Rhistory[0K
+03/05/2020  07:49 PM               218 data_mining_mini_prj.Rproj[0K
+03/05/2020  07:49 PM             3,423 main.R[0K
+03/04/2020  04:48 PM            64,990 movies.Rdata[0K
+               5 File(s)        373,612 bytes[0K
+               2 Dir(s)  17,092,317,184 bytes free[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ks[0K[0m[1;1H[2J[0m[0K[?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hd[0Ki[0Kr[0K[?25l
+ Volume in drive C has no label.[0K
+ Volume Serial Number is 1A40-D01E[0K
+[0K
+ Directory of C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj[0K
+[0K
+03/05/2020  07:51 PM    <DIR>          .[0K
+03/05/2020  07:51 PM    <DIR>          ..[0K
+03/05/2020  07:49 PM           291,354 .RData[0K
+03/05/2020  07:49 PM            13,627 .Rhistory[0K
+03/05/2020  07:49 PM               218 data_mining_mini_prj.Rproj[0K
+03/05/2020  07:49 PM             3,423 main.R[0K
+03/04/2020  04:48 PM            64,990 movies.Rdata[0K
+               5 File(s)        373,612 bytes[0K
+               2 Dir(s)  17,092,313,088 bytes free[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25h]0;  - git  status]0; On branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.RData[0m[0K
+        [0;31m.Rhistory[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mdata_mining_mini_prj.Rproj[0m[0K
+        [0;31mmain.R[0m[0K
+        [0;31mmovies.Rdata[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track)[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git u[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git[0K[59G[?25h[58G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>gi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>g[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git a[0K[?25hd[0Kd[0K[63G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git add -[0K[?25hA[0K[?25l
+[0K[?25h

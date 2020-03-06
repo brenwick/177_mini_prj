@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583368707412.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3529856489",
+    "id" : "12769E0F",
+    "lastKnownWriteTime" : 1583433080,
+    "last_content_update" : 1583433080081,
+    "path" : "C:/Users/brenw/Desktop/data_mining_mini_prj/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "cursorPosition" : "117,42",
+        "scrollLine" : "91",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
