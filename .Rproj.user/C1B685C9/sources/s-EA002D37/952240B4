@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1583466090271.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "952240B4",
     "lastKnownWriteTime" : 1583466574,
-    "last_content_update" : 1583466574285,
+    "last_content_update" : 1583470594881,
     "path" : "C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/main.R",
     "project_path" : "main.R",
     "properties" : {
-        "cursorPosition" : "117,42",
-        "scrollLine" : "88"
+        "cursorPosition" : "175,0",
+        "scrollLine" : "142"
     },
     "relative_order" : 1,
     "source_on_save" : false,

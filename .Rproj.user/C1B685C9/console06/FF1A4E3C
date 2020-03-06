@@ -109,4 +109,910 @@ Untracked files:[0K
 nothing added to commit but untracked files present (use "git add" to track)[0K
 [0K
 C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git u[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git[0K[59G[?25h[58G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>gi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>g[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git a[0K[?25hd[0Kd[0K[63G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git add -[0K[?25hA[0K[?25l
-[0K[?25h
+[0K[?25h]0;  - git  add -Awarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/rmd-outputs.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/12769E0F.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/AC2C4383.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/E5955187.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/prop/F3749C2A.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/packages-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/persistent-state.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/rmd-outputs.[0K[1G[?25h[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/prop/A05EC343.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h]0; [?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   .RData[0m[0K
+        [0;32mnew file:   .Rhistory[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/files-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/source-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/workbench-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/rmd-outputs[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/saved_source_markers[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/12769E0F[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/AC2C4383[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/AC2C4383-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/E5955187[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/E5955187-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/prop/F3749C2A[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/viewer-cache/67D021AB.Rdata[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/viewer-cache/FC6B249D.Rdata[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/console06/INDEX001[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/files-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/packages-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/source-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/workbench-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/persistent-state[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/rmd-outputs[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/saved_source_markers[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/prop/A05EC343[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/B1AB7AD3-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/lock_file[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;32mnew file:   data_mining_mini_prj.Rproj[0m[0K
+        [0;32mnew file:   main.R[0m[0K
+        [0;32mnew file:   movies.Rdata[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[66G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git commit -[0K[?25hm[0K[69G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git commit -m "[0K[?25hi[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0K[78G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git commit -m "initial c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K]0;  - git  commit -m "initial commit"[?25l
+[0K[?25h]0; [master (root-commit) 7c361db] initial commit[0K[?25l
+ 39 files changed, 1211 insertions(+)[0K
+ create mode 100644 .RData[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/rmd-outputs[0K
+ create mode 100644 .Rproj.user/2EA00E79/saved_source_markers[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/12769E0F[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/AC2C4383[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/AC2C4383-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/E5955187[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/E5955187-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/prop/F3749C2A[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/2EA00E79/viewer-cache/67D021AB.Rdata[0K
+ create mode 100644 .Rproj.user/2EA00E79/viewer-cache/FC6B249D.Rdata[0K
+ create mode 100644 .Rproj.user/C1B685C9/console06/FF1A4E3C[0K
+ create mode 100644 .Rproj.user/C1B685C9/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/packages-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/persistent-state[0K
+ create mode 100644 .Rproj.user/C1B685C9/rmd-outputs[0K
+ create mode 100644 .Rproj.user/C1B685C9/saved_source_markers[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/prop/A05EC343[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/B1AB7AD3-contents[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 data_mining_mini_prj.Rproj[0K
+ create mode 100644 main.R[0K
+ create mode 100644 movies.Rdata[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git a[0K[?25hd[0Kd[0K[63G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git add -[0K[?25hA[0K]0;  - git  add -A[?25l
+[0K[?25h]0; [?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K]0;  - git  commit[?25l
+[0K[?25hhint: Waiting for your editor to close the file...[0K[52G[0m[1;1H[2J[?25l[0m[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+"C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG" [converted][unix] 11L, 329C[0K[?25h[?25l[19A[?25h[?25l
+[0;36;96m# Please enter the commit message for your changes. Lines starting[0m[0K
+[0;36;96m# with '#' will be ignored, and an empty message aborts the commit.[0m[0K
+[0;36;96m#[0m[0K
+[0;36;96m# On branch [0;31;91mmaster[0m[0K
+[0;36;96m# [0;34;94mChanges to be committed:[0m[0K
+[0;36;96m#       [0;32;92mmodified[0;36;96m: [0;35;95m  .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0;36;96m#[0m[0K
+[0;36;96m# [0;34;94mChanges not staged for commit:[0m[0K
+[0;36;96m#       [0;32;92mmodified[0;36;96m: [0;35;95m  .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0;36;96m#[0m[0K
+[0;34;94m~[0K
+~[0K
+~[0K
+~[0K
+~[0K
+~[0K
+~[0K
+[0;7mC:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG [unix] (19:53 05/03/2020)                                                                         1,0-1 Al[0Kl
+[0m"C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG" [converted][unix] 11L, 329C[0K[19A[?25h[6n[?25l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG" [converted][unix] 11L, 329C                                                                   ^[[0K[19A[?25h[?25l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG" [converted][unix] 11L, 329C[0K[19A[?25h[?25l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:[0K[?25hw[0Kq[0K[?25l"C:/Users/Brandon Renwick/Desktop/data_mining_mini_prj/.git/COMMIT_EDITMSG"[0K[?25h]0; [?25l[18AC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>dir[0K
+ Volume in drive C has no label.[0K
+ Volume Serial Number is 1A40-D01E[0K
+[0K
+ Directory of C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj[0K
+[0K
+03/05/2020  07:51 PM    <DIR>          .[0K
+03/05/2020  07:51 PM    <DIR>          ..[0K
+03/05/2020  07:49 PM           291,354 .RData[0K
+03/05/2020  07:49 PM            13,627 .Rhistory[0K
+03/05/2020  07:49 PM               218 data_mining_mini_prj.Rproj[0K
+03/05/2020  07:49 PM             3,423 main.R[0K
+03/04/2020  04:48 PM            64,990 movies.Rdata[0K
+               5 File(s)        373,612 bytes[0K
+               2 Dir(s)  17,092,313,088 bytes free[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git status[0K
+On branch master[0K
+[0K
+No commits yet[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.RData[0m[0K
+        [0;31m.Rhistory[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mdata_mining_mini_prj.Rproj[0m[0K
+        [0;31mmain.R[0m[0K
+        [0;31mmovies.Rdata[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track)[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git add -A[0K
+warning: LF will be replaced by CRLF in .Rhistory.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/rmd-outputs.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/12769E0F.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/AC2C4383.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/per/t/E5955187.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/prop/F3749C2A.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/2EA00E79/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/files-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/packages-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/persistent-state.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/rmd-outputs.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/prop/A05EC343.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git status[0K
+On branch master[0K
+[0K
+No commits yet[0K
+[0K
+Changes to be committed:[0K
+  (use "git rm --cached <file>..." to unstage)[0K
+[0K
+        [0;32mnew file:   .RData[0m[0K
+        [0;32mnew file:   .Rhistory[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/files-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/source-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/pcs/workbench-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/rmd-outputs[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/saved_source_markers[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/12769E0F[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/AC2C4383[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/AC2C4383-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/E5955187[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/per/t/E5955187-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/prop/F3749C2A[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/viewer-cache/67D021AB.Rdata[0m[0K
+        [0;32mnew file:   .Rproj.user/2EA00E79/viewer-cache/FC6B249D.Rdata[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/console06/INDEX001[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/files-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/packages-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/source-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/pcs/workbench-pane.pper[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/persistent-state[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/rmd-outputs[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/saved_source_markers[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/prop/A05EC343[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/B1AB7AD3-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/C1B685C9/sources/s-D51A374B/lock_file[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[0m[0K
+        [0;32mnew file:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;32mnew file:   data_mining_mini_prj.Rproj[0m[0K
+        [0;32mnew file:   main.R[0m[0K
+        [0;32mnew file:   movies.Rdata[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git commit -m "initial commit"[0K
+[master (root-commit) 7c361db] initial commit[0K
+ 39 files changed, 1211 insertions(+)[0K
+ create mode 100644 .RData[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/2EA00E79/rmd-outputs[0K
+ create mode 100644 .Rproj.user/2EA00E79/saved_source_markers[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/12769E0F[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/12769E0F-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/AC2C4383[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/AC2C4383-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/E5955187[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/per/t/E5955187-contents[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/prop/F3749C2A[0K
+ create mode 100644 .Rproj.user/2EA00E79/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/2EA00E79/viewer-cache/67D021AB.Rdata[0K
+ create mode 100644 .Rproj.user/2EA00E79/viewer-cache/FC6B249D.Rdata[0K
+ create mode 100644 .Rproj.user/C1B685C9/console06/FF1A4E3C[0K
+ create mode 100644 .Rproj.user/C1B685C9/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/packages-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/C1B685C9/persistent-state[0K
+ create mode 100644 .Rproj.user/C1B685C9/rmd-outputs[0K
+ create mode 100644 .Rproj.user/C1B685C9/saved_source_markers[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/prop/A05EC343[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/952240B4-contents[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/B1AB7AD3-contents[0K
+ create mode 100644 .Rproj.user/C1B685C9/sources/s-D51A374B/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 data_mining_mini_prj.Rproj[0K
+ create mode 100644 main.R[0K
+ create mode 100644 movies.Rdata[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git status[0K
+On branch master[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/C1B685C9/console06/FF1A4E3C[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git add -A[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git commit[0K
+Aborting commit due to empty commit message.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git p[0K[?25hu[0Ks[0Kh[0K[64G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[71G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin https://github.com/brenwick/data_mining_mini_prj[0K[?25h[118G[117G[115G[113G[112G[111G[110G[109G[107G[106G[104G[102G[101G[100G[98G[97G[96G[95G[94G[93G[92G[91G[90G[89G[88G[87G[86G[85G[84G[83G[82G[81G[80G[78G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[65G[66G[65G[64G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -origin https://github.com/brenwick/data_mining_mini_prj[0K[65G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -uorigin https://github.com/brenwick/data_mining_mini_prj[0K[66G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_mini_prj[0K[67G[?25h]0;  - git  push -u origin https://github.com/brenwick/data_mining_mini_prj[?25l
+[0K[?25h]0; fatal: invalid refspec 'https://github.com/brenwick/data_mining_mini_prj'[0K[?25l
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hgit push -u origin https://github.com/brenwick/data_mining_mini_prj[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_mini_pr[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_mini_p[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_mini[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_mi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_m[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining_[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mining[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_minin[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mini[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_mi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data_[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/data[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/dat[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/da[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/d[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick/[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwick[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwic[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenwi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/brenw[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/bre[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/br[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/b[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.com/[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.co[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.c[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github.[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://github[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://githu[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://gith[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://gi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://g[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https://[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https:/[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https:[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin https[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin http[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin htt[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin ht[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin h[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u origin[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u orig[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u or[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u o[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -u[0K[67G[?25h[66G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push -[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push[0K[64G[?25h[63G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git pus[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git pu[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git[0K[59G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>gi[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>g[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[66G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote a[0K[?25hd[0Kd[0K[70G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add p[0K[?25ho[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add p[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add[0K[70G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[77G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin s[0K[?25hs[0Kh[0K[81G[80G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:[0K[?25hhttps://github.com/brenwick/data_mining_mini_prj[0K[128G[127G[126G[125G[123G[121G[119G[117G[116G[115G[114G[113G[112G[110G[108G[107G[105G[104G[103G[101G[100G[99G[98G[97G[96G[95G[94G[93G[92G[91G[90G[88G[87G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:https//github.com/brenwick/data_mining_mini_prj[0K[86G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:http//github.com/brenwick/data_mining_mini_prj[0K[85G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:htt//github.com/brenwick/data_mining_mini_prj[0K[84G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:ht//github.com/brenwick/data_mining_mini_prj[0K[83G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh:h//github.com/brenwick/data_mining_mini_prj[0K[82G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git remote add origin ssh://github.com/brenwick/data_mining_mini_prj[0K[81G[?25h]0;  - git  remote add origin ssh://github.com/brenwick/data_mining_mini_prj[?25l
+[0K[?25h]0; [?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hg[0Ki[0Kt[0K[59G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git p[0K[?25hu[0Ks[0Kh[0K[64G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[71G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin https://github.com/brenwick/data_mining_mini_prj[0K[?25h[118G[117G[116G[115G[114G[113G[112G[111G[110G[108G[106G[104G[103G[102G[101G[100G[99G[98G[96G[95G[94G[92G[91G[90G[89G[88G[87G[86G[85G[83G[81G[80G[79G[78G[77G[76G[77G[76G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin http://github.com/brenwick/data_mining_mini_prj[0K[75G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin htt://github.com/brenwick/data_mining_mini_prj[0K[74G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin ht://github.com/brenwick/data_mining_mini_prj[0K[73G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin h://github.com/brenwick/data_mining_mini_prj[0K[72G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin ://github.com/brenwick/data_mining_mini_prj[0K[71G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin://github.com/brenwick/data_mining_mini_prj[0K[70G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin ://github.com/brenwick/data_mining_mini_prj[0K[71G[?25h]0;  - git  push origin ://github.com/brenwick/data_mining_mini_prj[?25l
+[0K[?25h]0; fatal: invalid refspec '://github.com/brenwick/data_mining_mini_prj'[0K[?25l
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hs[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hd[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ks[0K[0m[1;1H[2J[0m[0K[?25l
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hd[0Ki[0Kr[0K[?25l
+ Volume in drive C has no label.[0K
+ Volume Serial Number is 1A40-D01E[0K
+[0K
+ Directory of C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj[0K
+[0K
+03/05/2020  07:51 PM    <DIR>          .[0K
+03/05/2020  07:51 PM    <DIR>          ..[0K
+03/05/2020  07:49 PM           291,354 .RData[0K
+03/05/2020  07:49 PM            13,627 .Rhistory[0K
+03/05/2020  07:49 PM               218 data_mining_mini_prj.Rproj[0K
+03/05/2020  07:49 PM             3,423 main.R[0K
+03/04/2020  04:48 PM            64,990 movies.Rdata[0K
+               5 File(s)        373,612 bytes[0K
+               2 Dir(s)  17,090,936,832 bytes free[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0K[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>c[0K[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K[?25hc[0Kl[0Ks[0K[?25l[16AC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[55G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[56G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[57G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[59G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git p[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[60G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git pu[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[61G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git pus[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[62G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[63G[?25h[64G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push o[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[65G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push or[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[66G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push ori[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[67G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push orig[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[68G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[69G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[70G[?25h[71G[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin m[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[72G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin ma[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[73G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin mas[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[74G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin mast[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[75G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin maste[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[76G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>git push origin master[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[15A[?25h]0;  - git  push origin masterThe authenticity of host 'github.com (192.30.255.112)' can't be established.[0K[?25l
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.[0K
+Are you sure you want to continue connecting (yes/no/[fingerprint])?[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[70G[?25h[?25lAre you sure you want to continue connecting (yes/no/[fingerprint])? y[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[71G[?25h[?25lAre you sure you want to continue connecting (yes/no/[fingerprint])? ye[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[72G[?25h[?25lAre you sure you want to continue connecting (yes/no/[fingerprint])? yes[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[73G[?25h[?25l
+Warning: Permanently added 'github.com,192.30.255.112' (RSA) to the list of known hosts.[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[11A[?25h]0; Brandon Renwick@github.com: Permission denied (publickey).[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+[0K
+C:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K
+[0K
+[0K
+[0K
+[0K
+[0K[5A[55G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>c[0K
+[0K
+[0K
+[0K
+[0K
+[0K[5A[56G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>cl[0K
+[0K
+[0K
+[0K
+[0K
+[0K[5A[57G[?25h[?25lC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>cls[0K
+[0K
+[0K
+[0K
+[0K
+[0K[5A[58G[?25h[?25l
+[?25h[?25l[12AC:\Users\Brandon Renwick\Desktop\data_mining_mini_prj>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[16A[55G[?25h

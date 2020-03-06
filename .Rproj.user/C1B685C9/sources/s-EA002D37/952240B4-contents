@@ -116,4 +116,61 @@ summary(m_1_noGE)$adj.r.squared
 qqnorm(m_full$residuals, main="Normality Condition")
 qqline(m_full$residuals, main="Normality Condition")
 #Minor Irregularities, no serious outliers
+hist(m_full$residuals, prob=TRUE, main="Normality Condition")
+#Right Skewness but appears to be normal
+
+#2 Check Variability of the residuals
+ggplot(data = m_full, aes(x = .fitted, y = .resid)) +
+  geom_point() +
+  geom_hline(yintercept = 0, linetype = "dashed") +
+  xlab("Fitted values") +
+  ylab("Residuals")
+
+par(mfrow = c(1,2))
+plot(m_full$fitted.values, m_full$residuals)
+plot(m_full$fitted.values, abs(m_full$residuals))
+
+# These show that the residuals are approx. constant?
+
+#3 Check Independency
+plot(m_full$residuals, main="Independency Conditions")
+# Independent (random scattering/no pattern)
+
+anova(m_full)
+#Shows all variables are good predictors based on P-Values
+
+
+#4 Check Linearity: residuals vs predictor variables
+plot(m_full$residuals ~ dfm2$imdb_rating, main="Linearity Condition - imdb")
+plot(m_full$residuals ~ dfm2$genre, main="Linearity Condition - genre")
+plot(m_full$residuals ~ dfm2$audience_rating, main="Linearity Condition - audience_rating")
+plot(m_full$residuals ~ dfm2$critics_score, main="Linearity Condition - critics_score")
+
+#These plots show random scatter or little pattern = condition met.
+
+
+#--PREDICTION--#
+
+#We will not use the model to predict the audience score for "The Jungle Book"
+
+genre <- "Animation"
+imdb_rating <- 7.5
+critics_score <- 95
+audience_rating <- "Upright"
+audience_score <-86
+TestA <- data.frame (genre, imdb_rating, critics_score, audience_rating, audience_score)
+
+prediction_JBA <- predict(m_full, newdata = TestA, interval="confidence")
+prediction_JBA
+
+myPrediction <- round(predict(m_full, TestA), digits=0)
+c(myPrediction, TestA$audience_score)
+
+genre <- "Other"
+TestO <- data.frame(genre, imdb_rating, critics_score, audience_rating, audience_score)
+
+prediction_JBO <- predict(m_full, newdata=TestO, interval="confidence")
+prediction_JBO
+myPrediction <- round(predict(m_full, TestO), digits = 0)
+c(myPrediction, TestO$audience_score) #compare fitted and observed values
 
